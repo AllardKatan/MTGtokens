@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0254684"
-     inkscape:cx="72.649726"
-     inkscape:cy="845.46728"
+     inkscape:zoom="1.0819246"
+     inkscape:cx="-251.86598"
+     inkscape:cy="785.63701"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false" />
   <defs
      id="defs1" />
@@ -86,8 +86,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="long cut"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.3"
        d="M 442.135,5.15 H 10"
@@ -227,12 +226,6 @@
        y="0"
        inkscape:tiled-clone-of="#path1-8-2"
        xlink:href="#path1-8-2"
-       id="use1911" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#path1-8-2"
-       xlink:href="#path1-8-2"
        transform="translate(0,12.000001)"
        id="use1912" />
     <use
@@ -292,472 +285,13 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.71224px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.3"
-       x="7.7685003"
-       y="85.242592"
-       id="text35-51-9"
-       transform="scale(0.94285808,1.060605)"
-       inkscape:tile-cx="19"
-       inkscape:tile-cy="88.149995"
-       inkscape:tile-w="21.999999"
-       inkscape:tile-h="7.9999995"
-       inkscape:tile-x0="8.0000003"
-       inkscape:tile-y0="84.149995"><tspan
-         sodipodi:role="line"
-         id="tspan35-60-9"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.71224px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke:none;stroke-width:0.3"
-         x="7.7685003"
-         y="85.242592">+1/+0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.68418px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.3"
-       x="7.7982206"
-       y="107.52381"
-       id="text35-51-9-5"
-       transform="scale(0.93982163,1.0640317)"
-       inkscape:tile-cx="18.999997"
-       inkscape:tile-cy="107.00001"
-       inkscape:tile-w="21.999995"
-       inkscape:tile-h="7.9999974"
-       inkscape:tile-x0="8.0000001"
-       inkscape:tile-y0="103.00002"><tspan
-         sodipodi:role="line"
-         id="tspan35-60-9-4"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.68418px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke:none;stroke-width:0.3"
-         x="7.7982206"
-         y="107.52381">+0/+1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.98px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.3"
-       x="7.4934936"
-       y="13.031075"
-       id="text35"
-       transform="scale(0.97183544,1.0289808)"
-       inkscape:tile-cx="19.000002"
-       inkscape:tile-cy="11"
-       inkscape:tile-w="21.999998"
-       inkscape:tile-h="8.0000008"
-       inkscape:tile-x0="8.0000029"
-       inkscape:tile-y0="6.9999997"><tspan
-         sodipodi:role="line"
-         id="tspan35"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.98px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke:none;stroke-width:0.3"
-         x="7.4934936"
-         y="13.031075">+1/+1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.98px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.292977"
-       x="7.4934936"
-       y="13.031075"
-       id="text35-4"
-       transform="matrix(1.0189838,0,0,1.0289808,1.9534982,47.999998)"
-       inkscape:tile-cx="19.000002"
-       inkscape:tile-cy="59.149998"
-       inkscape:tile-w="18.000001"
-       inkscape:tile-h="8.0000008"
-       inkscape:tile-x0="10.000002"
-       inkscape:tile-y0="55.149998"><tspan
-         sodipodi:role="line"
-         id="tspan35-8"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.98px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke:none;stroke-width:0.292977"
-         x="7.4934936"
-         y="13.031075">-1/-1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.98px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.288844"
-       x="7.4934936"
-       y="13.031075"
-       id="text35-4-4"
-       transform="matrix(1.0483548,0,0,1.0289808,0.72156522,89.294956)"
-       inkscape:tile-cx="19"
-       inkscape:tile-cy="100.44496"
-       inkscape:tile-w="20.000001"
-       inkscape:tile-h="8.0000008"
-       inkscape:tile-x0="8.9999995"
-       inkscape:tile-y0="96.444957"><tspan
-         sodipodi:role="line"
-         id="tspan35-8-5"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.98px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke:none;stroke-width:0.288844"
-         x="7.4934936"
-         y="13.031075">-1/-0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.59258px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.3"
-       x="7.8964958"
-       y="133.35698"
-       id="text35-5"
-       transform="scale(0.92990844,1.0753747)"
-       inkscape:tile-cx="18.999995"
-       inkscape:tile-cy="131.26459"
-       inkscape:tile-w="21.999991"
-       inkscape:tile-h="7.9999973"
-       inkscape:tile-x0="7.9999998"
-       inkscape:tile-y0="127.26459"><tspan
-         sodipodi:role="line"
-         id="tspan35-1"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.59258px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke:none;stroke-width:0.3"
-         x="7.8964958"
-         y="133.35698">+2/+2</tspan></text>
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(26.999934)"
-       id="use356" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(53.999867)"
-       id="use358" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(80.999801)"
-       id="use360" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(107.99973)"
-       id="use362" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(134.99967)"
-       id="use364" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(161.9996)"
-       id="use366" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(188.99953)"
-       id="use368" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(215.99947)"
-       id="use370" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(242.9994)"
-       id="use372" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(269.99934)"
-       id="use374" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(296.99927)"
-       id="use376" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(323.9992)"
-       id="use378" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(350.99914)"
-       id="use380" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(377.99907)"
-       id="use382" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5"
-       xlink:href="#text35-51-9-5"
-       transform="translate(404.999)"
-       id="use384" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(26.999928)"
-       id="use434" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(53.999857)"
-       id="use436" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(80.999785)"
-       id="use438" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(107.99971)"
-       id="use440" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(134.99964)"
-       id="use442" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(161.99957)"
-       id="use444" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(188.9995)"
-       id="use446" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(215.99943)"
-       id="use448" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(242.99936)"
-       id="use450" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(269.99928)"
-       id="use452" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(296.99921)"
-       id="use454" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(323.99914)"
-       id="use456" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(350.99907)"
-       id="use458" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(377.999)"
-       id="use460" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5"
-       xlink:href="#text35-5"
-       transform="translate(404.99893)"
-       id="use462" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.63661px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.3"
-       x="7.8490195"
-       y="156.47244"
-       id="text35-5-9"
-       transform="scale(0.93467317,1.0698927)"
-       inkscape:tile-cx="19.000004"
-       inkscape:tile-cy="155.14999"
-       inkscape:tile-w="22.000008"
-       inkscape:tile-h="7.9999999"
-       inkscape:tile-x0="7.9999997"
-       inkscape:tile-y0="151.14999"><tspan
-         sodipodi:role="line"
-         id="tspan35-1-0"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.63661px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke:none;stroke-width:0.3"
-         x="7.8490195"
-         y="156.47244">+5/+5</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.63661px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.296055"
-       x="7.8490195"
-       y="156.47244"
-       id="text35-5-9-4"
-       transform="matrix(0.95974959,0,0,1.0698927,2.0948263,12.033622)"
-       inkscape:tile-cx="19.000003"
-       inkscape:tile-cy="177.18362"
-       inkscape:tile-w="18.000001"
-       inkscape:tile-h="7.9999999"
-       inkscape:tile-x0="10.000003"
-       inkscape:tile-y0="173.18362"><tspan
-         sodipodi:role="line"
-         id="tspan35-1-0-7"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.63661px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke:none;stroke-width:0.296055"
-         x="7.8490195"
-         y="156.47244">-5/-5</tspan></text>
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(26.99995)"
-       id="use1018" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(53.9999)"
-       id="use1020" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(80.999851)"
-       id="use1022" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(107.9998)"
-       id="use1024" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(134.99975)"
-       id="use1026" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(161.9997)"
-       id="use1028" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(188.99965)"
-       id="use1030" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(215.9996)"
-       id="use1032" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(242.99955)"
-       id="use1034" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(269.9995)"
-       id="use1036" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(296.99945)"
-       id="use1038" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(323.9994)"
-       id="use1040" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(350.99935)"
-       id="use1042" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(377.9993)"
-       id="use1044" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9"
-       xlink:href="#text35-5-9"
-       transform="translate(404.99925)"
-       id="use1046" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.78534372px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums ;font-variant-east-asian:;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none"
        x="31.477484"
        y="206.40973"
        id="text1434"><tspan
          sodipodi:role="line"
          id="tspan1434"
-         style="stroke-width:0.1"
+         style="stroke-width:0.1;-inkscape-font-specification:'Sitka Subheading, Bold';font-family:'Sitka Subheading';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8.78534372px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums ;font-variant-east-asian:"
          x="31.477484"
          y="206.40973" /></text>
     <g
@@ -767,95 +301,96 @@
        inkscape:tile-w="45.290978"
        inkscape:tile-h="88.622103"
        inkscape:tile-x0="8.8549779"
-       inkscape:tile-y0="192.00159">
+       inkscape:tile-y0="192.00159"
+       style="fill:#666666">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="8.7368546"
          y="194.39185"
          id="text1285"
          transform="scale(0.98729762,1.0128658)"><tspan
            sodipodi:role="line"
            id="tspan1285"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke:none;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke:none;stroke-width:0.1"
            x="8.7368546"
            y="194.39185">Indestructible</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="15.932767"
          y="220.0639"
          id="text1435-7"><tspan
            sodipodi:role="line"
            id="tspan1435-9"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke:none;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke:none;stroke-width:0.1"
            x="15.932767"
            y="220.0639">Hexproof</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="13.162268"
          y="256.61835"
          id="text1438"><tspan
            sodipodi:role="line"
            id="tspan1438"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1;fill:#666666"
            x="13.162268"
            y="256.61835">First strike</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="9.5137615"
          y="268.56955"
          id="text1439"><tspan
            sodipodi:role="line"
            id="tspan1439"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1;fill:#666666"
            x="9.5137615"
            y="268.56955">Double strike</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="13.012318"
          y="277.57654"
          id="text1440"
          transform="scale(0.98944324,1.0106694)"><tspan
            sodipodi:role="line"
            id="tspan1440"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1;fill:#666666"
            x="13.012318"
            y="277.57654">Deathtouch</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="16.569342"
          y="243.94905"
          id="text1445"><tspan
            sodipodi:role="line"
            id="tspan1445"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1;fill:#666666"
            x="16.569342"
            y="243.94905">Vigilance</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="16.459585"
          y="232.73947"
          id="text1446"><tspan
            sodipodi:role="line"
            id="tspan1446"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1;fill:#666666"
            x="16.459585"
            y="232.73947">Defender</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="15.369891"
          y="208.81512"
          id="text1447"><tspan
            sodipodi:role="line"
            id="tspan1447"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1;fill:#666666"
            x="15.369891"
            y="208.81512">Landwalk</tspan></text>
     </g>
@@ -866,94 +401,95 @@
        inkscape:tile-w="27.065125"
        inkscape:tile-h="89.284039"
        inkscape:tile-x0="66.042915"
-       inkscape:tile-y0="191.32452">
+       inkscape:tile-y0="191.32452"
+       style="fill:#666666">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="70.171196"
          y="268.37201"
          id="text1435"><tspan
            sodipodi:role="line"
            id="tspan1435"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke:none;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke:none;stroke-width:0.1"
            x="70.171196"
            y="268.37201">Haste</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="67.653137"
          y="244.6499"
          id="text1436"><tspan
            sodipodi:role="line"
            id="tspan1436"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1;fill:#666666"
            x="67.653137"
            y="244.6499">Shroud</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="69.192833"
          y="255.90025"
          id="text1437"><tspan
            sodipodi:role="line"
            id="tspan1437"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1;fill:#666666"
            x="69.192833"
            y="255.90025">Flying</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="67.17968"
          y="219.44958"
          id="text1441"
          transform="scale(0.9938703,1.0061675)"><tspan
            sodipodi:role="line"
            id="tspan1441"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1;fill:#666666"
            x="67.17968"
            y="219.44958">Lifelink</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="69.757278"
          y="208.81041"
          id="text1442"><tspan
            sodipodi:role="line"
            id="tspan1442"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1;fill:#666666"
            x="69.757278"
            y="208.81041">Reach</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="65.911209"
          y="196.13484"
          id="text1443"><tspan
            sodipodi:role="line"
            id="tspan1443"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1;fill:#666666"
            x="65.911209"
            y="196.13484">Trample</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="67.182777"
          y="232.52467"
          id="text1444"><tspan
            sodipodi:role="line"
            id="tspan1444"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1;fill:#666666"
            x="67.182777"
            y="232.52467">Menace</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-dasharray:none"
          x="68.607994"
          y="280.52075"
          id="text1448"><tspan
            sodipodi:role="line"
            id="tspan1448"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1;fill:#666666"
            x="68.607994"
            y="280.52075">Poison</tspan></text>
     </g>
@@ -1006,1225 +542,1875 @@
        xlink:href="#g1841"
        transform="translate(291.59219)"
        id="use1854" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(0,12.000001)"
-       id="use72" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(0,24.000002)"
-       id="use73" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(0,36.000004)"
-       id="use74" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(26.999938)"
-       id="use75" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(26.999938,12.000001)"
-       id="use76" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(26.999938,24.000002)"
-       id="use77" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(26.999938,36.000004)"
-       id="use78" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(53.999875)"
-       id="use79" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(53.999875,12.000001)"
-       id="use80" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(53.999875,24.000002)"
-       id="use81" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(53.999875,36.000004)"
-       id="use82" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(80.999813)"
-       id="use83" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(80.999813,12.000001)"
-       id="use84" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(80.999813,24.000002)"
-       id="use85" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(80.999813,36.000004)"
-       id="use86" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(107.99975)"
-       id="use87" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(107.99975,12.000001)"
-       id="use88" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(107.99975,24.000002)"
-       id="use89" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(107.99975,36.000004)"
-       id="use90" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(134.99969)"
-       id="use91" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(134.99969,12.000001)"
-       id="use92" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(134.99969,24.000002)"
-       id="use93" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(134.99969,36.000004)"
-       id="use94" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(161.99963)"
-       id="use95" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(161.99963,12.000001)"
-       id="use96" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(161.99963,24.000002)"
-       id="use97" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(161.99963,36.000004)"
-       id="use98" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(188.99956)"
-       id="use99" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(188.99956,12.000001)"
-       id="use100" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(188.99956,24.000002)"
-       id="use101" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(188.99956,36.000004)"
-       id="use102" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(215.9995)"
-       id="use103" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(215.9995,12.000001)"
-       id="use104" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(215.9995,24.000002)"
-       id="use105" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(215.9995,36.000004)"
-       id="use106" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(242.99944)"
-       id="use107" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(242.99944,12.000001)"
-       id="use108" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(242.99944,24.000002)"
-       id="use109" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(242.99944,36.000004)"
-       id="use110" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(269.99938)"
-       id="use111" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(269.99938,12.000001)"
-       id="use112" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(269.99938,24.000002)"
-       id="use113" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(269.99938,36.000004)"
-       id="use114" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(296.99931)"
-       id="use115" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(296.99931,12.000001)"
-       id="use116" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(296.99931,24.000002)"
-       id="use117" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(296.99931,36.000004)"
-       id="use118" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(323.99925)"
-       id="use119" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(323.99925,12.000001)"
-       id="use120" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(323.99925,24.000002)"
-       id="use121" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(323.99925,36.000004)"
-       id="use122" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(350.99919)"
-       id="use123" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(350.99919,12.000001)"
-       id="use124" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(350.99919,24.000002)"
-       id="use125" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(350.99919,36.000004)"
-       id="use126" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(377.99913)"
-       id="use127" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(377.99913,12.000001)"
-       id="use128" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(377.99913,24.000002)"
-       id="use129" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(377.99913,36.000004)"
-       id="use130" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(404.99906)"
-       id="use131" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(404.99906,12.000001)"
-       id="use132" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(404.99906,24.000002)"
-       id="use133" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35"
-       xlink:href="#text35"
-       transform="translate(404.99906,36.000004)"
-       id="use134" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(0,17.000001)"
-       id="use198" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(27.000001)"
-       id="use199" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(27.000001,17.000001)"
-       id="use200" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(54.000002)"
-       id="use201" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(54.000002,17.000001)"
-       id="use202" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(81.000003)"
-       id="use203" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(81.000003,17.000001)"
-       id="use204" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(108)"
-       id="use205" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(108,17.000001)"
-       id="use206" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(135)"
-       id="use207" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(135,17.000001)"
-       id="use208" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(162.00001)"
-       id="use209" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(162.00001,17.000001)"
-       id="use210" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(189.00001)"
-       id="use211" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(189.00001,17.000001)"
-       id="use212" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(216.00001)"
-       id="use213" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(216.00001,17.000001)"
-       id="use214" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(243.00001)"
-       id="use215" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(243.00001,17.000001)"
-       id="use216" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(270.00001)"
-       id="use217" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(270.00001,17.000001)"
-       id="use218" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(297.00001)"
-       id="use219" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(297.00001,17.000001)"
-       id="use220" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(324.00001)"
-       id="use221" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(324.00001,17.000001)"
-       id="use222" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(351.00001)"
-       id="use223" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(351.00001,17.000001)"
-       id="use224" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(378.00001)"
-       id="use225" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(378.00001,17.000001)"
-       id="use226" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(405.00001)"
-       id="use227" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4"
-       xlink:href="#text35-4"
-       transform="translate(405.00001,17.000001)"
-       id="use228" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(26.999939)"
-       id="use259" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(53.999879)"
-       id="use260" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(80.999818)"
-       id="use261" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(107.99976)"
-       id="use262" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(134.9997)"
-       id="use263" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(161.99964)"
-       id="use264" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(188.99957)"
-       id="use265" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(215.99951)"
-       id="use266" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(242.99945)"
-       id="use267" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(269.99939)"
-       id="use268" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(296.99933)"
-       id="use269" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(323.99927)"
-       id="use270" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(350.99921)"
-       id="use271" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(377.99915)"
-       id="use272" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-51-9"
-       xlink:href="#text35-51-9"
-       transform="translate(404.99909)"
-       id="use273" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(27.000001)"
-       id="use275" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(54.000002)"
-       id="use276" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(81.000003)"
-       id="use277" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(108)"
-       id="use278" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(135.00001)"
-       id="use279" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(162.00001)"
-       id="use280" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(189.00001)"
-       id="use281" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(216.00001)"
-       id="use282" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(243.00001)"
-       id="use283" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(270.00001)"
-       id="use284" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(297.00001)"
-       id="use285" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(324.00001)"
-       id="use286" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(351.00001)"
-       id="use287" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(378.00002)"
-       id="use288" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-4-4"
-       xlink:href="#text35-4-4"
-       transform="translate(405.00002)"
-       id="use289" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.59258px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.296438"
-       x="7.8964958"
-       y="133.35698"
-       id="text35-5-90"
-       transform="matrix(0.95238801,0,0,1.0753747,2.1121193,11.84656)"
-       inkscape:tile-cx="18.999995"
-       inkscape:tile-cy="152.99656"
-       inkscape:tile-w="18"
-       inkscape:tile-h="7.9999973"
-       inkscape:tile-x0="9.9999944"
-       inkscape:tile-y0="148.99656"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.20444912px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums ;font-variant-east-asian:;letter-spacing:1.76px;word-spacing:0px;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="272.02557"
+       y="134.4613"
+       id="text2"
+       transform="scale(0.26458333)"><tspan
          sodipodi:role="line"
-         id="tspan35-1-6"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.59258px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke:none;stroke-width:0.296438"
-         x="7.8964958"
-         y="133.35698">-2/-2</tspan></text>
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(27.000001)"
-       id="use291" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(54.000001)"
-       id="use292" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(81.000002)"
-       id="use293" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(108)"
-       id="use294" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(135)"
-       id="use295" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(162)"
-       id="use296" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(189)"
-       id="use297" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(216.00001)"
-       id="use298" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(243.00001)"
-       id="use299" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(270.00001)"
-       id="use300" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(297.00001)"
-       id="use301" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(324.00001)"
-       id="use302" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(351.00001)"
-       id="use303" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(378.00001)"
-       id="use304" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-90"
-       xlink:href="#text35-5-90"
-       transform="translate(405.00001)"
-       id="use305" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(27.000001)"
-       id="use348" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(54.000002)"
-       id="use349" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(81.000003)"
-       id="use350" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(108)"
-       id="use351" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(135)"
-       id="use352" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(162.00001)"
-       id="use353" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(189.00001)"
-       id="use354" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(216.00001)"
-       id="use386" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(243.00001)"
-       id="use387" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(270.00001)"
-       id="use388" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(297.00001)"
-       id="use389" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(324.00001)"
-       id="use390" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(351.00001)"
-       id="use391" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(378.00001)"
-       id="use392" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#text35-5-9-4"
-       xlink:href="#text35-5-9-4"
-       transform="translate(405.00001)"
-       id="use393" />
+         id="tspan2" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.68418px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#808080;fill-rule:evenodd;stroke:none;stroke-width:0.295637"
-       x="7.7982206"
-       y="107.52381"
-       id="text35-51-9-5-9"
-       transform="matrix(0.96776319,0,0,1.0640317,2.0759067,16.997896)"
-       inkscape:tile-cx="18.999995"
-       inkscape:tile-cy="129.14792"
-       inkscape:tile-w="18.000001"
-       inkscape:tile-h="7.9999974"
-       inkscape:tile-x0="9.9999944"
-       inkscape:tile-y0="125.14792"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="text147"
+       transform="matrix(0.26458333,0,0,0.26458333,-8.9846354,29.152536)"
+       inkscape:tile-cx="18.791403"
+       inkscape:tile-cy="11.352841"
+       inkscape:tile-w="20.289869"
+       inkscape:tile-h="6.7193899"
+       inkscape:tile-x0="8.6464688"
+       inkscape:tile-y0="7.9931464"><tspan
          sodipodi:role="line"
-         id="tspan35-60-9-4-4"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.68418px;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke:none;stroke-width:0.295637"
-         x="7.7982206"
-         y="107.52381">-0/-1</tspan></text>
+         id="tspan147"
+         x="62.225395"
+         y="-60.104076"
+         dx="2 -2 2"
+         style="fill:#666666">+1/<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan304"
+   dx="-2 -2">+1</tspan></tspan></text>
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(27.000001)"
-       id="use395" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(0,12.000696)"
+       id="use307" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(54.000002)"
-       id="use396" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(0,24.001392)"
+       id="use308" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(81.000002)"
-       id="use397" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(0,36.002088)"
+       id="use309" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(108)"
-       id="use398" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(26.999729)"
+       id="use310" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(135)"
-       id="use399" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(26.999729,12.000696)"
+       id="use311" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(162)"
-       id="use400" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(26.999729,24.001392)"
+       id="use312" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(189.00001)"
-       id="use401" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(26.999729,36.002088)"
+       id="use313" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(216.00001)"
-       id="use402" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(53.999457)"
+       id="use314" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(243.00001)"
-       id="use403" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(53.999457,12.000696)"
+       id="use315" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(270.00001)"
-       id="use404" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(53.999457,24.001392)"
+       id="use316" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(297.00001)"
-       id="use405" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(53.999457,36.002088)"
+       id="use317" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(324.00001)"
-       id="use406" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(80.999186)"
+       id="use318" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(351.00001)"
-       id="use407" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(80.999186,12.000696)"
+       id="use319" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(378.00001)"
-       id="use408" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(80.999186,24.001392)"
+       id="use320" />
     <use
        x="0"
        y="0"
-       inkscape:tiled-clone-of="#text35-51-9-5-9"
-       xlink:href="#text35-51-9-5-9"
-       transform="translate(405.00001)"
-       id="use409" />
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(80.999186,36.002088)"
+       id="use321" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(107.99891)"
+       id="use322" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(107.99891,12.000696)"
+       id="use323" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(107.99891,24.001392)"
+       id="use324" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(107.99891,36.002088)"
+       id="use325" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(134.99864)"
+       id="use326" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(134.99864,12.000696)"
+       id="use327" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(134.99864,24.001392)"
+       id="use328" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(134.99864,36.002088)"
+       id="use329" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(161.99837)"
+       id="use330" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(161.99837,12.000696)"
+       id="use331" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(161.99837,24.001392)"
+       id="use332" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(161.99837,36.002088)"
+       id="use333" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(188.9981)"
+       id="use334" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(188.9981,12.000696)"
+       id="use335" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(188.9981,24.001392)"
+       id="use336" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(188.9981,36.002088)"
+       id="use337" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(215.99783)"
+       id="use338" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(215.99783,12.000696)"
+       id="use339" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(215.99783,24.001392)"
+       id="use340" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(215.99783,36.002088)"
+       id="use341" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(242.99756)"
+       id="use342" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(242.99756,12.000696)"
+       id="use343" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(242.99756,24.001392)"
+       id="use344" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(242.99756,36.002088)"
+       id="use345" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(269.99729)"
+       id="use346" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(269.99729,12.000696)"
+       id="use347" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(269.99729,24.001392)"
+       id="use355" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(269.99729,36.002088)"
+       id="use357" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(296.99702)"
+       id="use359" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(296.99702,12.000696)"
+       id="use361" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(296.99702,24.001392)"
+       id="use363" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(296.99702,36.002088)"
+       id="use365" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(323.99674)"
+       id="use367" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(323.99674,12.000696)"
+       id="use369" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(323.99674,24.001392)"
+       id="use371" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(323.99674,36.002088)"
+       id="use373" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(350.99647)"
+       id="use375" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(350.99647,12.000696)"
+       id="use377" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(350.99647,24.001392)"
+       id="use379" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(350.99647,36.002088)"
+       id="use381" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(377.9962)"
+       id="use383" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(377.9962,12.000696)"
+       id="use385" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(377.9962,24.001392)"
+       id="use394" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(377.9962,36.002088)"
+       id="use410" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(404.99593)"
+       id="use411" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(404.99593,12.000696)"
+       id="use412" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(404.99593,24.001392)"
+       id="use413" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147"
+       xlink:href="#text147"
+       transform="translate(404.99593,36.002088)"
+       id="use414" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="text147-3"
+       transform="matrix(0.26458333,0,0,0.26458333,-6.1581162,77.134388)"
+       inkscape:tile-cx="18.914631"
+       inkscape:tile-cy="59.334695"
+       inkscape:tile-w="16.521115"
+       inkscape:tile-h="6.7193899"
+       inkscape:tile-x0="10.654074"
+       inkscape:tile-y0="55.975"><tspan
+         sodipodi:role="line"
+         id="tspan147-8"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 -2 2"
+         style="fill:#666666">-1/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan304-3"
+   dx="-2">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="text147-7"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.8622833,106.13509)"
+       inkscape:tile-cx="18.440492"
+       inkscape:tile-cy="88.335398"
+       inkscape:tile-w="21.343341"
+       inkscape:tile-h="6.7193899"
+       inkscape:tile-x0="7.7688209"
+       inkscape:tile-y0="84.975703"><tspan
+         sodipodi:role="line"
+         id="tspan147-9"
+         x="62.225395"
+         y="-60.104076"
+         dx="2 -2 2"
+         style="fill:#666666">+1/<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan304-7"
+   dx="-2">+0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="text147-7-4"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.9581873,118.09062)"
+       inkscape:tile-cx="18.347018"
+       inkscape:tile-cy="100.29093"
+       inkscape:tile-w="21.348202"
+       inkscape:tile-h="6.7193899"
+       inkscape:tile-x0="7.6729169"
+       inkscape:tile-y0="96.931233"><tspan
+         sodipodi:role="line"
+         id="tspan147-9-9"
+         x="62.225395"
+         y="-60.104076"
+         dx="2 0 2"
+         style="fill:#666666">+0/<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan304-7-9"
+   dx="-2">+1</tspan></tspan></text>
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(27.000394)"
+       id="use606" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(54.000788)"
+       id="use607" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(81.001182)"
+       id="use608" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(108.00158)"
+       id="use609" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(135.00197)"
+       id="use610" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(162.00236)"
+       id="use611" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(189.00276)"
+       id="use612" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(216.00315)"
+       id="use613" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(243.00355)"
+       id="use614" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(270.00394)"
+       id="use615" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(297.00433)"
+       id="use616" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(324.00473)"
+       id="use617" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(351.00512)"
+       id="use618" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(378.00551)"
+       id="use619" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7"
+       xlink:href="#text147-7"
+       transform="translate(405.00591)"
+       id="use620" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(27.000352)"
+       id="use622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(54.000705)"
+       id="use623" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(81.001057)"
+       id="use624" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(108.00141)"
+       id="use625" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(135.00176)"
+       id="use626" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(162.00211)"
+       id="use627" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(189.00247)"
+       id="use628" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(216.00282)"
+       id="use629" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(243.00317)"
+       id="use630" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(270.00352)"
+       id="use631" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(297.00388)"
+       id="use632" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(324.00423)"
+       id="use633" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(351.00458)"
+       id="use634" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(378.00493)"
+       id="use635" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-7-4"
+       xlink:href="#text147-7-4"
+       transform="translate(405.00529)"
+       id="use636" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use637"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.2050922,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan653"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2 -1"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan652">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use638"
+       transform="matrix(0.26458333,0,0,0.26458333,19.795535,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan655"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan654">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use639"
+       transform="matrix(0.26458333,0,0,0.26458333,46.796162,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan657"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan656">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use640"
+       transform="matrix(0.26458333,0,0,0.26458333,73.796788,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan659"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan658">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use641"
+       transform="matrix(0.26458333,0,0,0.26458333,100.79742,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan661"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan660">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use642"
+       transform="matrix(0.26458333,0,0,0.26458333,127.79804,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan663"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan662">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use643"
+       transform="matrix(0.26458333,0,0,0.26458333,154.79867,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan665"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan664">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use644"
+       transform="matrix(0.26458333,0,0,0.26458333,181.7993,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan667"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan666">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use645"
+       transform="matrix(0.26458333,0,0,0.26458333,208.79992,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan669"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan668">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use646"
+       transform="matrix(0.26458333,0,0,0.26458333,235.80055,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan671"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan670">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use647"
+       transform="matrix(0.26458333,0,0,0.26458333,262.80118,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan673"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan672">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use648"
+       transform="matrix(0.26458333,0,0,0.26458333,289.8018,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan675"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan674">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use649"
+       transform="matrix(0.26458333,0,0,0.26458333,316.80243,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan677"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan676">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use650"
+       transform="matrix(0.26458333,0,0,0.26458333,343.80306,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan679"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan678">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use651"
+       transform="matrix(0.26458333,0,0,0.26458333,370.80369,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan681"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan680">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use652"
+       transform="matrix(0.26458333,0,0,0.26458333,397.80431,130.08461)"
+       inkscape:tile-x0="9.6070976"
+       inkscape:tile-y0="108.92522"><tspan
+         sodipodi:role="line"
+         id="tspan683"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-0/-<tspan
+   style="letter-spacing:0px;fill:#666666"
+   id="tspan682">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use637-9"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.1955281,147.08645)"
+       inkscape:tile-x0="9.6166617"
+       inkscape:tile-y0="125.92706"
+       inkscape:tile-cx="18.668539"
+       inkscape:tile-cy="129.28676"
+       inkscape:tile-w="18.103754"
+       inkscape:tile-h="6.7193899"><tspan
+         sodipodi:role="line"
+         id="tspan653-7"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 -1 2 -1 1"
+         style="fill:#666666">-1/-0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use637-9-2"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.4545483,159.08329)"
+       inkscape:tile-x0="7.6473893"
+       inkscape:tile-y0="137.9239"
+       inkscape:tile-cx="18.770616"
+       inkscape:tile-cy="141.2836"
+       inkscape:tile-w="22.246453"
+       inkscape:tile-h="6.7193899"><tspan
+         sodipodi:role="line"
+         id="tspan653-7-8"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 -1 2 -2 -1"
+         style="fill:#666666">+2/+2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use637-9-2-1"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.4290207,183.02732)"
+       inkscape:tile-x0="7.6729169"
+       inkscape:tile-y0="161.86793"
+       inkscape:tile-cx="18.369948"
+       inkscape:tile-cy="165.22763"
+       inkscape:tile-w="21.394063"
+       inkscape:tile-h="6.7193899"><tspan
+         sodipodi:role="line"
+         id="tspan653-7-8-5"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2 -3"
+         style="fill:#666666">+5/+5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use637-9-2-1-7"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.1890461,195.08439)"
+       inkscape:tile-x0="9.6231437"
+       inkscape:tile-y0="173.92501"
+       inkscape:tile-cx="18.56809"
+       inkscape:tile-cy="177.2847"
+       inkscape:tile-w="17.889893"
+       inkscape:tile-h="6.7193899"><tspan
+         sodipodi:role="line"
+         id="tspan653-7-8-5-2"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 0 2"
+         style="fill:#666666">-5/-5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:lining-nums tabular-nums;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:1.13386"
+       x="62.225395"
+       y="-60.104076"
+       id="use637-9-2-3"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.0653772,171.08329)"
+       inkscape:tile-x0="9.7468126"
+       inkscape:tile-y0="149.9239"
+       inkscape:tile-cx="18.324204"
+       inkscape:tile-cy="153.2836"
+       inkscape:tile-w="17.154782"
+       inkscape:tile-h="6.7193899"><tspan
+         sodipodi:role="line"
+         id="tspan653-7-8-1"
+         x="62.225395"
+         y="-60.104076"
+         dx="0 -1 2 -1 -1"
+         style="fill:#666666">-2/-2</tspan></text>
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(26.999577)"
+       id="use699" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(53.999154)"
+       id="use700" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(80.998731)"
+       id="use701" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(107.99831)"
+       id="use702" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(134.99789)"
+       id="use703" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(161.99746)"
+       id="use704" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(188.99704)"
+       id="use705" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(215.99662)"
+       id="use706" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(242.99619)"
+       id="use707" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(269.99577)"
+       id="use708" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(296.99535)"
+       id="use709" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(323.99492)"
+       id="use710" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(350.9945)"
+       id="use711" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(377.99408)"
+       id="use712" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9"
+       xlink:href="#use637-9"
+       transform="translate(404.99366)"
+       id="use713" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(0,17.000696)"
+       id="use730" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(27.000128)"
+       id="use731" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(27.000128,17.000696)"
+       id="use732" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(54.000257)"
+       id="use733" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(54.000257,17.000696)"
+       id="use734" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(81.000385)"
+       id="use735" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(81.000385,17.000696)"
+       id="use736" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(108.00051)"
+       id="use737" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(108.00051,17.000696)"
+       id="use738" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(135.00064)"
+       id="use739" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(135.00064,17.000696)"
+       id="use740" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(162.00077)"
+       id="use741" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(162.00077,17.000696)"
+       id="use742" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(189.0009)"
+       id="use743" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(189.0009,17.000696)"
+       id="use744" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(216.00103)"
+       id="use745" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(216.00103,17.000696)"
+       id="use746" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(243.00116)"
+       id="use747" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(243.00116,17.000696)"
+       id="use748" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(270.00128)"
+       id="use749" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(270.00128,17.000696)"
+       id="use750" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(297.00141)"
+       id="use751" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(297.00141,17.000696)"
+       id="use752" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(324.00154)"
+       id="use753" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(324.00154,17.000696)"
+       id="use754" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(351.00167)"
+       id="use755" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(351.00167,17.000696)"
+       id="use756" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(378.0018)"
+       id="use757" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(378.0018,17.000696)"
+       id="use758" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(405.00193)"
+       id="use759" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#text147-3"
+       xlink:href="#text147-3"
+       transform="translate(405.00193,17.000696)"
+       id="use760" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(27.00052)"
+       id="use880" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(54.001039)"
+       id="use881" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(81.001559)"
+       id="use882" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(108.00208)"
+       id="use883" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(135.0026)"
+       id="use884" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(162.00312)"
+       id="use885" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(189.00364)"
+       id="use886" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(216.00416)"
+       id="use887" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(243.00468)"
+       id="use888" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(270.0052)"
+       id="use889" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(297.00571)"
+       id="use890" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(324.00623)"
+       id="use891" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(351.00675)"
+       id="use892" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(378.00727)"
+       id="use893" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2"
+       xlink:href="#use637-9-2"
+       transform="translate(405.00779)"
+       id="use894" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(26.99974)"
+       id="use896" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(53.99948)"
+       id="use897" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(80.99922)"
+       id="use898" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(107.99896)"
+       id="use899" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(134.9987)"
+       id="use900" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(161.99844)"
+       id="use901" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(188.99818)"
+       id="use902" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(215.99792)"
+       id="use903" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(242.99766)"
+       id="use904" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(269.9974)"
+       id="use905" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(296.99714)"
+       id="use906" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(323.99688)"
+       id="use907" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(350.99662)"
+       id="use908" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(377.99636)"
+       id="use909" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-3"
+       xlink:href="#use637-9-2-3"
+       transform="translate(404.9961)"
+       id="use910" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       id="use911" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(27.000163)"
+       id="use912" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(54.000327)"
+       id="use913" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(81.00049)"
+       id="use914" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(108.00065)"
+       id="use915" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(135.00082)"
+       id="use916" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(162.00098)"
+       id="use917" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(189.00114)"
+       id="use918" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(216.00131)"
+       id="use919" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(243.00147)"
+       id="use920" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(270.00163)"
+       id="use921" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(297.0018)"
+       id="use922" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(324.00196)"
+       id="use923" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(351.00212)"
+       id="use924" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(378.00229)"
+       id="use925" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1"
+       xlink:href="#use637-9-2-1"
+       transform="translate(405.00245)"
+       id="use926" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       id="use927" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(26.999838)"
+       id="use928" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(53.999676)"
+       id="use929" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(80.999514)"
+       id="use930" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(107.99935)"
+       id="use931" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(134.99919)"
+       id="use932" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(161.99903)"
+       id="use933" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(188.99887)"
+       id="use934" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(215.99871)"
+       id="use935" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(242.99854)"
+       id="use936" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(269.99838)"
+       id="use937" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(296.99822)"
+       id="use938" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(323.99806)"
+       id="use939" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(350.9979)"
+       id="use940" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(377.99773)"
+       id="use941" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#use637-9-2-1-7"
+       xlink:href="#use637-9-2-1-7"
+       transform="translate(404.99757)"
+       id="use942" />
   </g>
   <g
      inkscape:groupmode="layer"
